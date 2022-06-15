@@ -3,7 +3,9 @@
 Este projeto foi criado com o intuito de colocar em prática meus
 os conhecimentos adquiridos. A ideia inicial de desenvolver
 um `Jogo`, foi para aprimorar meus conhecimento em CSS e javascript, no qual queria aprender e 
-fixar o meu estudo. Desenvolvi um jogo bem simples e utilizei insetos, para que o usuário possa escolher entre: mosca, aranha e barata
+fixar o meu estudo.
+
+Desenvolvi um jogo bem simples e utilizei insetos, para que o usuário possa escolher entre: mosca, aranha e barata
 e depois fazer a captura do inseto. No lado direito da tela vai mostrar a pontuação e esquerdo o tempo. 
 
 ## 📁 Acesso ao projeto
