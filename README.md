@@ -10,6 +10,8 @@ e depois fazer a captura do inseto. No lado direito da tela vai mostrar a pontua
 
 ## 📁 Acesso ao projeto
 
+Live preview: https://lnkd.in/ddSzzxhx
+
 Para você colocar este projeto em funcionamento, basta você clonar este
 projeto ou fazer download e executar o arquivo `index.html` em seu
 navegador.
